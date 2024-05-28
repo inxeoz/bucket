@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="92.874115"
+   height="100.05016"
+   viewBox="0 0 24.572942 26.471605"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="bitmap.svg"
+   inkscape:export-filename="bitmap2.svg"
+   inkscape:export-xdpi="29.640779"
+   inkscape:export-ydpi="29.640779"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.06167627,-0.01007761)">
+    <rect
+       style="fill:#fdc800;fill-opacity:0.878431;stroke:#000000;stroke-width:0.0617975;paint-order:markers fill stroke"
+       id="rect1"
+       width="24.511147"
+       height="26.409807"
+       x="0.092575021"
+       y="0.04097636" />
+    <rect
+       style="fill:#002147;fill-opacity:0.878431;stroke:#000000;stroke-width:0.0386539;paint-order:markers fill stroke"
+       id="rect2"
+       width="24.46563"
+       height="9.6685228"
+       x="0.14887024"
+       y="16.737459" />
+    <ellipse
+       style="fill:#002147;fill-opacity:0.878431;stroke:#000000;stroke-width:0.0513156;paint-order:markers fill stroke"
+       id="path3"
+       cx="3.9058626"
+       cy="3.6811311"
+       rx="1.5188246"
+       ry="1.5206989" />
+    <ellipse
+       style="fill:#002147;fill-opacity:0.878431;stroke:#000000;stroke-width:0.0513156;paint-order:markers fill stroke"
+       id="path3-4"
+       cx="20.304724"
+       cy="3.6310673"
+       rx="1.5188246"
+       ry="1.5206989" />
+  </g>
+</svg>
